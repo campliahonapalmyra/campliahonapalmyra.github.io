@@ -2,7 +2,7 @@ on: [push]
 
 jobs:
   nikola_build:
-    runs-on: ununtu-latest
+    runs-on: ubuntu-latest
     name: 'Deploy Nikola to GitHub Pages'
     steps:
     - name: Checkout
