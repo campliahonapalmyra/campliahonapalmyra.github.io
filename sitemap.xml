@@ -7,118 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://palmyraym.github.io/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
+  <lastmod>2021-04-11T18:35:00Z</lastmod>
  </url>
  <url>
-  <loc>https://palmyraym.github.io/2012/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
+  <loc>https://palmyraym.github.io/2021/</loc>
+  <lastmod>2021-04-11T18:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://palmyraym.github.io/archive.html</loc>
-  <lastmod>2021-04-11T13:43:00Z</lastmod>
+  <lastmod>2021-04-11T18:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://palmyraym.github.io/categories/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/categories/blog/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/categories/cat_nikola/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/categories/demo/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/categories/nikola/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/categories/python/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
+  <lastmod>2021-04-11T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://palmyraym.github.io/galleries/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/galleries/demo/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
+  <lastmod>2021-04-11T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://palmyraym.github.io/listings/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
+  <lastmod>2021-04-11T18:31:00Z</lastmod>
  </url>
  <url>
-  <loc>https://palmyraym.github.io/listings/__pycache__/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
+  <loc>https://palmyraym.github.io/pages/conference-2021/</loc>
+  <lastmod>2021-04-11T18:35:00Z</lastmod>
  </url>
  <url>
-  <loc>https://palmyraym.github.io/listings/hello.py.html</loc>
-  <lastmod>2021-04-11T13:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/about-nikola/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/bootstrap-demo/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/charts/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/creating-a-theme/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/dr-nikolas-vendetta/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/extending/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/handbook/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/internals/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/listings-demo/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/path-handlers/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/quickref/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/quickstart/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/social_buttons/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/pages/theming/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://palmyraym.github.io/posts/welcome-to-nikola/</loc>
-  <lastmod>2021-04-11T13:07:00Z</lastmod>
+  <loc>https://palmyraym.github.io/posts/welcome-to-palmyraym/</loc>
+  <lastmod>2021-04-11T18:17:00Z</lastmod>
  </url>
 </urlset>
