@@ -7,4 +7,4 @@
 .. description: 
 .. type: text
 
-Write your page here.
+In addition to information about youth conference, the link to the registration form will go here
