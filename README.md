@@ -1,1 +1,0 @@
-# palmyraym.github.io
