@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Palmyra Stake YM"  # (translatable)
-BLOG_TITLE = "Youth Conference"  # (translatable)
+BLOG_TITLE = "Palmyra Youth Conference"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://palmyraym.github.io/"
