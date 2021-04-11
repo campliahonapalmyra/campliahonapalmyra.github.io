@@ -13,4 +13,4 @@
    :alt: Trees in the Sacred Grove
 
 * `Find out about YM Camp Liahona 2021 <https://campliahonapalmyra.com>`__
-* `Find out about Youth Conference 2021 <conference-2021>`__
+* `Find out about Youth Conference 2021 </pages/conference-2021>`__
