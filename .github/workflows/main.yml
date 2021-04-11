@@ -1,0 +1,13 @@
+on: [push]
+
+jobs:
+  nikola_build:
+    runs-on: ununtu-latest
+    name: 'Deploy Nikola to GitHub Pages'
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Build and Deplot Nikola
+      uses: getnikola/nikola-action@v3
+      with:
+        dry_run: false
