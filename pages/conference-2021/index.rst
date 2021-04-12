@@ -7,4 +7,8 @@
 .. description: 
 .. type: text
 
-Write your page here.
+- Date: June 19, 2021
+- Time: 9am - 9pm
+- Location: 
+
+`Registration <https://forms.gle/hMgF23NJLqmBP9XG9>`__
